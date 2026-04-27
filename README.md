@@ -1,13 +1,10 @@
 <p align="center">
-  <h1 align="center">About Me</h1>
+  <h1 align="center">Hi There 👋 </h1>
 </p>
 
 <p align="center">
   <b>Akmal | 18yo Developer & AI Automation Enthusiast</b><br/>
   Currently building Micro-SaaS and architecting AI-driven workflows.<br/>
-  Mastering Laravel, PHP, JS, and Python to turn ideas into scalable products.<br/>
-  Expert in Make.com & n8n automating complex business systems.<br/>
-  Fun Fact: Former international digital art winner turned code builder.<br/>
   Contact: I can help you with SaaS development or AI automations.
 </p>
 
