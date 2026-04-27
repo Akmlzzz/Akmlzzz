@@ -1,13 +1,14 @@
 <p align="center">
-  <h1 align="center">Hi There 👋 </h1>
+  <h1 align="center">Hi..I'm Akmal Irsyad </h1>
 </p>
 
 <p align="center">
-  <b>Akmal | 18yo Developer & AI Automation Enthusiast</b><br/>
+  <b>18yo Developer & AI Automation Enthusiast</b><br/>
   Currently building Micro-SaaS and architecting AI-driven workflows.<br/>
   Contact: I can help you with SaaS development or AI automations.
 </p>
 
+<h2 align="center">Socials Media</h2>
 <p align="center">
   <a href="https://instagram.com/akmalirsyadx">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
