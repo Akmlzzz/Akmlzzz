@@ -5,7 +5,7 @@
 <p align="center">
   <b>18yo Developer & AI Automation Enthusiast</b><br/>
   Currently building Micro-SaaS and architecting AI-driven workflows.<br/>
-  Contact: I can help you with SaaS development or AI automations.
+  I can help you with SaaS development or AI automations.
 </p>
 
 <h2 align="center">Socials Media</h2>
